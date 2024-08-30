@@ -1,0 +1,15 @@
+/* Add this CSS to TodoList.css */
+
+.todo-container {
+  background-color: #f8f9fa; /* Light background color */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  padding: 20px; /* Padding inside the container */
+  margin: 0 auto; /* Center the container */
+  max-width: 800px; /* Maximum width of the container */
+}
+
+.completed-todo {
+  background-color: #e9fbe9; /* Light green background for completed todos */
+  border-left: 5px solid #4caf50; /* Green left border for completed todos */
+}

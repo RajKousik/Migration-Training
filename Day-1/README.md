@@ -12,4 +12,4 @@
 
 3. **Programming Language Modernization/Migration Task**
 
-   - Migrate the AWS CodeCommit Repository to the any Git Provider with all best practices (GitHub/ Azure DevOps/ Gitlab, etc.,)
+   - Your primary objective is to modernize the backend of the legacy ToDo App, currently implemented in JSP-Servlet. You may convert it to .NET, Java Spring Boot, or Python-whichever platform you are most comfortable with. If time permits, you can also work on modernizing the UI.

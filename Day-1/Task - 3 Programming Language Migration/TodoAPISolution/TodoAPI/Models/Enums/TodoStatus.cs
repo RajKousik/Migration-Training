@@ -2,8 +2,8 @@
 {
     public enum TodoStatus
     {
-        Completed,
-        NotCompleted,
-        OverDue
+        NotCompleted = 0,
+        Completed = 1, 
+        OverDue = -1,
     }
 }

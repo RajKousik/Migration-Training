@@ -1,4 +1,9 @@
 # Task 1
+Perform migration of 3 tier application (assess to migration) with Azure Migrate:
+Create 3 VMs in one region and deploy some sample application
+Do Assessment of migration of all 3 tier application(3 VMs of Servers)
+Migrate all the servers to another region
+Verify application is accessible from migrated region
 
 # Task 2
 
